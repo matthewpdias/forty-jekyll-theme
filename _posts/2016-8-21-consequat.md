@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What We Do
-description: Liatrio is a DevOps transformation team that helps you re-engineer how value for the customer is delivered from conception to deployment. We bring the tools and experience to execute on DevOps core practices – including automation, sharing, and feedback – underpinned by a collaborative culture. By bringing you proven tools and processes and fostering a culture of shared responsibilities, we unite your entire technology organization to become a high-performing team. The outcome is an organization that can move quickly to anticipate customer needs and adopt rapidly changing technologies.
-image: assets/images/pic01.jpg
+title: Consequat
+description: Ipsum dolor sit amet
+image: assets/images/pic05.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
