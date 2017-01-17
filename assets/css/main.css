@@ -1623,7 +1623,7 @@
 	}
 
 	body {
-		background: #24422c;
+		background: ##16271a;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2079,7 +2079,7 @@
 			background: #ffffff;
 			border-color: #99ffa0;
 			content: '\f00c';
-			color: #24422c;
+			color: #16271a;
 		}
 
 		input[type="checkbox"]:focus + label:before,
@@ -2160,7 +2160,7 @@
 		.icon.alt:before {
 			background-color: #ffffff;
 			border-radius: 100%;
-			color: #24422c;
+			color: #16271a;
 			display: inline-block;
 			height: 2em;
 			line-height: 2em;
@@ -2625,7 +2625,7 @@
 		.button.special {
 			background-color: #ffffff;
 			box-shadow: none;
-			color: #24422c;
+			color: #16271a;
 		}
 
 			input[type="submit"].special:hover, input[type="submit"].special:active,
@@ -2638,7 +2638,7 @@
 			.button.special:hover,
 			.button.special:active {
 				background-color: #99ffa0;
-				color: #24422c !important;
+				color: #16271a !important;
 			}
 
 			input[type="submit"].special:active,
@@ -3100,7 +3100,7 @@
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #ffffff;
-				color: #24422c;
+				color: #16271a;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -3368,7 +3368,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #000000;
+			background-color: #7ee570;
 			content: '';
 			display: block;
 			height: 100%;
