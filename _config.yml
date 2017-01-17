@@ -1,6 +1,6 @@
 # Site settings
 title: Liatrio
-subtitle: DevOps by Culture. Tools. Process
+subtitle: DevOps by Culture. Tools. Process.
 email: contact@liatrio.com
 description: As software drives most customer experiences today, businesses are constantly building and updating their applications to meet customer expectations. To do this successfully, many businesses are adopting DevOps, an approach that unites development and IT operations teams to automate development and deployment. The result? Continuous and successful software releases that deliver value to the customer.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
