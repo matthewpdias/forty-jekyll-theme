@@ -1623,7 +1623,7 @@
 	}
 
 	body {
-		background: ##16271a;
+		background: #16271a;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1688,7 +1688,7 @@
 		}
 
 		a:active {
-			color: ##51fb5c !important;
+			color: #40CA49 !important;
 		}
 
 	strong, b {
@@ -3112,7 +3112,7 @@
 			}
 
 			#header .logo:active strong {
-				background-color: ##51fb5c;
+				background-color: #51fb5c;
 			}
 
 		#header nav {
@@ -3368,7 +3368,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #7ee570;
+			background-color: #192d16;
 			content: '';
 			display: block;
 			height: 100%;
